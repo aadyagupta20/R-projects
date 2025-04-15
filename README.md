@@ -38,6 +38,8 @@ Visualization: Custom plots using ggplot2
 ## **Report & Documentation**
 **A full analysis report is provided as Hotel_booking_analysis_Report.pdf**
 
+Note: To view the report in HTML mode, please use the "Download" button (top-right of the file). Once downloaded, open the file in any web browser for the proper formatted view.
+
 The report consists of detailed information like:
 - Introduction
 - Background
