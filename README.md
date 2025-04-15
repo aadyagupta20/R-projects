@@ -65,3 +65,7 @@ Each research question is backed by:
 - “ggplot2.” The Tidyverse, https://ggplot2.tidyverse.org/. (documentation)
 - “dplyr.” The Tidyverse, https://dplyr.tidyverse.org/. (documentation)
 - Grolemund, Garrett, and Hadley Wickham. R for Data Science. O’Reilly Media, 2018.
+
+## **Contact**
+
+Let me know if you'd like to personalize any section or add a GitHub Pages link if you’re publishing your HTML report too!
